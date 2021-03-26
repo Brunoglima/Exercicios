@@ -1,0 +1,16 @@
+.header {
+	margin:0;
+	font-size:50;
+	color:FFFFFF;
+	background-color:#0000FF;
+	width:100%
+}
+
+div {
+	background-color:#FF0000;
+	width:100%
+}
+.rodape {
+	background-color:#FFFFFF;
+	color:#00CC00; 
+}
